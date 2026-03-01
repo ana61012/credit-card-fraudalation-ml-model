@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+venv/
+env/
+.venv/
+
+.vscode/
+
+.DS_Store
+
+creditcard.csv
+*.pkl
+*.joblib
